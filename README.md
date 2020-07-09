@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my github profile!
+
+I'm a software developer, I'm interested in scalable distributed systems and like to work with Golang. 
+
+📫 [LinkedIn](https://www.linkedin.com/in/geertgerritsen/)  
+🐦 [Twitter](https://twitter.com/gehgerritsen)
+
+
 <!--
 **ggerritsen/ggerritsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

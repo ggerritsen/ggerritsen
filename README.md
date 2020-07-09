@@ -5,7 +5,8 @@ Welcome to my github profile!
 I'm a software developer, I'm interested in scalable distributed systems and like to work with Golang. 
 
 📫 [LinkedIn](https://www.linkedin.com/in/geertgerritsen/)  
-🐦 [Twitter](https://twitter.com/gehgerritsen)
+🐦 [Twitter](https://twitter.com/gehgerritsen)  
+⭐ [Medium](https://medium.com/@ggerritsen)
 
 
 <!--
